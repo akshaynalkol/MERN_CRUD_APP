@@ -17,7 +17,7 @@ List the software and tools needed to run your project.
 
 ## Installation
 * Clone the repository : 
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/akshaynalkol/MERN_CRUD_APP.git
 
 * Front-End Setup 
   1. Navigate to the front-end directory :   `cd yourproject/frontend` 
