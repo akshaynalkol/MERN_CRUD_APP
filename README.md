@@ -32,8 +32,8 @@ git clone https://github.com/akshaynalkol/MERN_CRUD_APP.git
 Provide instructions on how to configure the project. Include any environment variables that need to be set.
 ### Back-End Configuration
 Create a .env file in the backend directory and add the following : \
-  `DATABASE_URL=your_database_url` \
-  `API_KEY=your_api_key`
+  `PORT = port_no.` \
+  `PASSWORD = database_password`
 
 ## Usage
 How to start and use the project.
